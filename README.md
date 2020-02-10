@@ -20,3 +20,6 @@ Summary of steps involved:
 5 -Evaluate and choose the best hyperparameters in each model
 5- Preprocessing of test dataset 
 6- Predictions using test dataset in each model
+
+
+This project is part of the course "Machine Learning with Python" by IBM
